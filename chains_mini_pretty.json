@@ -3056,11 +3056,11 @@
 }, {
   "name": "Fraxtal",
   "chainId": 252,
-  "shortName": "fraxtal",
+  "shortName": "frax",
   "networkId": 252,
   "nativeCurrency": {
-    "name": "Frax Ether",
-    "symbol": "frxETH",
+    "name": "Frax",
+    "symbol": "FRAX",
     "decimals": 18
   },
   "rpc": ["https://rpc.frax.com", "https://fraxtal-rpc.publicnode.com", "wss://fraxtal-rpc.publicnode.com"],
@@ -6538,18 +6538,18 @@
   "faucets": [],
   "infoURL": "https://bronos.org"
 }, {
-  "name": "ShimmerEVM Testnet Deprecated",
+  "name": "OpenGPU Mainnet",
   "chainId": 1071,
-  "shortName": "shimmerevm-testnet-deprecated",
+  "shortName": "ogpu",
   "networkId": 1071,
   "nativeCurrency": {
-    "name": "SMR",
-    "symbol": "SMR",
+    "name": "OGPU",
+    "symbol": "OGPU",
     "decimals": 18
   },
-  "rpc": [],
-  "faucets": ["https://evm-toolkit.evm.testnet.shimmer.network", "https://evm-faucet.testnet.shimmer.network"],
-  "infoURL": "https://shimmer.network"
+  "rpc": ["https://mainnet-rpc.ogpuscan.io", "wss://mainnet-rpc.ogpuscan.io"],
+  "faucets": [],
+  "infoURL": "https://opengpu.network"
 }, {
   "name": "ShimmerEVM Testnet Deprecated 1072",
   "chainId": 1072,
@@ -23724,6 +23724,19 @@
   "faucets": ["https://faucet.etherlink.com"],
   "infoURL": "https://etherlink.com"
 }, {
+  "name": "Tatara Testnet",
+  "chainId": 129399,
+  "shortName": "Tatara",
+  "networkId": 129399,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.tatara.katanarpc.com/"],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Odyssey Chain (Testnet)",
   "chainId": 131313,
   "shortName": "DIONE",
@@ -24100,6 +24113,19 @@
   "rpc": ["https://testnet.condor.systems/rpc"],
   "faucets": ["https://faucet.condor.systems"],
   "infoURL": "https://condor.systems"
+}, {
+  "name": "Altblockscan Mainnet",
+  "chainId": 191919,
+  "shortName": "altb",
+  "networkId": 191919,
+  "nativeCurrency": {
+    "name": "Altblockscan",
+    "symbol": "ALTB",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.altblockscan.com"],
+  "faucets": [],
+  "infoURL": "https://altblockscan.com"
 }, {
   "name": "Mind Network Testnet",
   "chainId": 192940,
@@ -27792,6 +27818,19 @@
   "rpc": ["https://sepolia.optimism.io", "https://optimism-sepolia.drpc.org", "wss://optimism-sepolia.drpc.org"],
   "faucets": ["https://app.optimism.io/faucet"],
   "infoURL": "https://optimism.io"
+}, {
+  "name": "RISE Testnet",
+  "chainId": 11155931,
+  "shortName": "rise-testnet",
+  "networkId": 11155931,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.riselabs.xyz/"
 }, {
   "name": "R0AR Testnet",
   "chainId": 11166111,
