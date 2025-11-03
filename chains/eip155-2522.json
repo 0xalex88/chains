@@ -1,11 +1,7 @@
 {
   "name": "Fraxtal Testnet",
   "chain": "FRAX",
-  "rpc": [
-    "https://rpc.testnet.frax.com",
-    "https://fraxtal-holesky-rpc.publicnode.com",
-    "wss://fraxtal-holesky-rpc.publicnode.com"
-  ],
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
     "name": "Frax",

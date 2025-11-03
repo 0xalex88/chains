@@ -10616,7 +10616,7 @@
     "symbol": "FRAX",
     "decimals": 18
   },
-  "rpc": ["https://rpc.testnet.frax.com", "https://fraxtal-holesky-rpc.publicnode.com", "wss://fraxtal-holesky-rpc.publicnode.com"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://testnet.frax.com"
 }, {
