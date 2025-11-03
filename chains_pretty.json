@@ -17452,11 +17452,7 @@
   "networkId": 2523,
   "slip44": 1,
   "icon": "fraxtal",
-  "explorers": [{
-    "name": "fraxscan",
-    "url": "https://hoodi.fraxscan.com",
-    "standard": "EIP3091"
-  }],
+  "explorers": [],
   "status": "active"
 }, {
   "name": "inEVM Mainnet",
